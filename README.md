@@ -80,4 +80,4 @@ This is looking better which easily to read for HTML semantic structure. I will 
 
 ## Acknowledgments
 
-Huge thanks to @Marimelle from the Frontend Mentor community — your idea about using gap and margin in the layout component was super helpful!
+Huge thanks to [@Marimelle](https://www.frontendmentor.io/profile/Marimelle) from the Frontend Mentor community — your idea about using gap and margin in the layout component was super helpful!
