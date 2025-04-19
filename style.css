@@ -100,15 +100,16 @@ td {
     font-weight: 600;
 }
 
-.custom-list li, .list {
-    gap: 1.4rem
-}
-
 .custom-list,
 .custom-list li,
 .list {
     display: flex;
 }
+
+.custom-list li, .list {
+    gap: 1.4rem
+}
+
 
 .custom-list {
     flex-direction: column;
